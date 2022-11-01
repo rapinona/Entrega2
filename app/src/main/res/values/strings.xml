@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Videogames</string>
+    <string name="confirmacion">Confirmación</string>
+    <string name="seguro_eliminar">¿Estas seguro de eliminar el registro %1$s?</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="success">success</string>
+    <string name="error">Error</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="no_vacio">No puede estar vacio</string>
+    <string name="modelo">Modelo</string>
+    <string name="color">Color</string>
+    <string name="ano">Año</string>
+    <string name="noHay">¡No hay registros!</string>
+    <string name="agregar">Agregar</string>
+    <string name="editar">Editar</string>
+    <string name="borrar">Borrar</string>
+    <string-array name="formulas_array">
+        <item>Mercedes Benz</item>
+        <item>BMW</item>
+        <item>Audi</item>
+    </string-array>
+</resources>
